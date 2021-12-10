@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-我是StevFang, 一名90后程序员, 爱好编程, 同时编程也是我的工作  
-多年前我可能不知道自己会喜欢上编程, 并将其作为我的工作(甚至是毕生的理想工作), 但很庆幸, 我喜欢上了TA——编程(Coding).
+我是StevFang, 一名90后程序员, 爱好编程, 同时编程也是我的工作
+
+多年前我可能不知道自己会喜欢上编程, 并将其作为我的工作(甚至是毕生的理想工作)
+
+很庆幸, 后来我喜欢了...  
+
+个人爱好的编程语言: C、Java、Python、JavaScript
 
 编程路上少不了陪伴, 在这里推荐一些编程爱好者们都爱看的:
 - [Java工程师成神之路](https://hollischuang.github.io/toBeTopJavaer/#/)
 - 后续待补充...
+
 
 希望大家都能喜欢自己的工作, 加油.
